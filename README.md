@@ -15,5 +15,8 @@ Si son lo mismo con los numeros enteros pero si se trabaja con decimales solo fu
 Ejercicio 5:
 No corre en una primera instancia y sale error de core dump por lo tanto se salio de la capacidad de memoria. Lo que hace la bandera es mostrar donde esta el error internamente con un error mas especifico que core dump.
 
+Ejercicio de las matrices:
+Se hizo solo un codigo para cualquier matriz con menos de 20 en cada dimensión. Se probo con cada una de las matrices pero como solo utilice un codigo no se puede ver, pero si funciona con cualquiera de los ejemplos propuestos.
+
 
 
