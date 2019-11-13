@@ -1,15 +1,12 @@
-# FISI2029-201920
-Laboratorio Métodos Computacionales - Segundo Semestre 2019
-[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2029-201920/master)
+# Ejercicio 13 del laboratorio de métodos computacionales Universidad de los Andes
 
-Material del curso de Laboratorio de Métodos Computacionales de Uniandes
+Ejercicio 1:
+Aunque ambos metodos dan como respuesta una suma, unicamente el que tiene el metodo por referencia cambio el valor de x, esto es porque al no tener la dirección de la constante no la puede cambiar y solo lo hace localmente mientras que el & hace que se general.
 
-Universidad de los Andes  
-Vigilada Mineducacion Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.   
-Reconocimiento personeria juridica: Resolucion 28 del 23 de febrero de 1949 Minjusticia.   
-Carrera 1 18A-10, Bloque Ip. Bogota - Colombia. A.A. 4976-12340.   
-Telephone +571 3324500.  
-Fax +571 3324516 
-Universidad de los Andes  
-Facultad de Ciencias 
-Departamento de Física 
+Ejercicio 2:
+No no compila, tiene un error. Dado que es una constante y esta declarado como tal al buscar la dirección no se puede acceder y por ende no se puede cambiar.
+
+Ejercicio 3:
+La serie de fibonacci imprime sin ningun problema en la pantalla de la terminal. Se hizo con un for dentro del main y una función recursiva en si misma para poder hacer los numeros de la secuencia.
+
+
