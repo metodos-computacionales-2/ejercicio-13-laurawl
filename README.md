@@ -9,4 +9,11 @@ No no compila, tiene un error. Dado que es una constante y esta declarado como t
 Ejercicio 3:
 La serie de fibonacci imprime sin ningun problema en la pantalla de la terminal. Se hizo con un for dentro del main y una función recursiva en si misma para poder hacer los numeros de la secuencia.
 
+Ejercicio 4:
+Si son lo mismo con los numeros enteros pero si se trabaja con decimales solo funciona el double, double acepta numero muchos mas grandes con una presición mucho mayor. Pero el double gasta mas memoria que los enteros por lo tanto se debe demorar mas.
+
+Ejercicio 5:
+No corre en una primera instancia y sale error de core dump por lo tanto se salio de la capacidad de memoria. Lo que hace la bandera es mostrar donde esta el error internamente con un error mas especifico que core dump.
+
+
 
